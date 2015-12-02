@@ -705,8 +705,9 @@ namespace GISHandler
                 screenDisplay.FinishDrawing();
                 if (MessageBox.Show("是否进行统计？", "询问", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
                 {
-                    CreatePolygonFeatureclass(pGon, @"G:\数据库\图层数据", "统计");
-                    axMapControl.AddShapeFile(@"G:\数据库\图层数据", "统计");
+                    CreatePolygonFeature(pGon, @"G:\数据库\图层数据", "统计");
+                    //axMapControl.AddShapeFile(@"G:\数据库\图层数据", "统计");
+
                 
                 }
             }
@@ -936,6 +937,90 @@ namespace GISHandler
             }
         
         }
+
+        public static void CreatePolygonFeature(IPolygon pPolygon, string shpfolder, string shpname)
+        {
+
+            IWorkspaceFactory pWorkSpaceFac = new ShapefileWorkspaceFactoryClass();
+            IFeatureWorkspace pFeatureWorkSpace = pWorkSpaceFac.OpenFromFile(shpfolder, 0) as IFeatureWorkspace;
+            try
+            {//如果图层存在则删除
+                FileInfo fFile = new FileInfo(shpfolder + @"\" + shpname + ".shp");//
+                if (fFile.Exists)
+                {
+                   
+
+                        DirectoryInfo fold = new DirectoryInfo(shpfolder);
+                        FileInfo[] files = fold.GetFiles(shpname + ".*");
+                        foreach (FileInfo f in files)
+                        {
+                            f.Delete();
+                        }
+
+                   
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            
+            //创建字段集2
+            IFeatureClassDescription fcDescription = new FeatureClassDescriptionClass();
+            IObjectClassDescription ocDescription = (IObjectClassDescription)fcDescription;//创建必要字段
+            IFields fields = ocDescription.RequiredFields;
+            int shapeFieldIndex = fields.FindField(fcDescription.ShapeFieldName);
+            IField field = fields.get_Field(shapeFieldIndex);
+            IGeometryDef geometryDef = field.GeometryDef;
+            IGeometryDefEdit geometryDefEdit = (IGeometryDefEdit)geometryDef;
+           
+
+            geometryDefEdit.GeometryType_2 = esriGeometryType.esriGeometryPolygon;
+            ISpatialReferenceFactory pSpatialRefFac = new SpatialReferenceEnvironmentClass();
+            
+            IGeographicCoordinateSystem pcsSys = pSpatialRefFac.CreateGeographicCoordinateSystem(4490);
+            geometryDefEdit.SpatialReference_2 = pcsSys;
+
+            IFieldChecker fieldChecker = new FieldCheckerClass();
+            IEnumFieldError enumFieldError = null;
+            IFields validatedFields = null; //将传入字段 转成 validatedFields
+            fieldChecker.ValidateWorkspace = (IWorkspace)pFeatureWorkSpace;
+            fieldChecker.Validate(fields, out enumFieldError, out validatedFields);
+            /*
+            field = new FieldClass();
+            IFieldsEdit pFieldsEdit = (IFieldsEdit)fields;
+            IFieldEdit pFieldEdit = (IFieldEdit)field;
+            pFieldEdit = (IFieldEdit)field;
+            pFieldEdit.Name_2 = "面积";
+            pFieldEdit.Type_2 = esriFieldType.esriFieldTypeDouble;
+            
+            pFieldsEdit.AddField(field);*/
+            IArea s = pPolygon as IArea;
+            double area = Math.Abs(s.Area * 10000);
+            double length = Math.Abs(pPolygon.Length * 100);
+            MessageBox.Show("该区域面积为：" + Convert.ToDouble(area).ToString("0.000") + "平方公里（km2）" + "\r\n" + "边长为：" + Convert.ToDouble(length).ToString("0.000") + "千米（KM）");
+            try
+            {
+                IFeatureClass pFeatureClass;
+                
+                pFeatureClass = pFeatureWorkSpace.CreateFeatureClass(shpname, validatedFields, ocDescription.InstanceCLSID, ocDescription.ClassExtensionCLSID, esriFeatureType.esriFTSimple, fcDescription.ShapeFieldName, "");
+
+                IFeature pFeature = pFeatureClass.CreateFeature();
+                pFeature.Shape = pPolygon;
+                //pFeature.set_Value(pFeature.Fields.FindField("面积"), area);
+                pFeature.Store();
+            }
+            catch(Exception ex)
+            {
+                 MessageBox.Show(ex.Message);
+               
+            }
+
+        }
+        
+        
         /// <summary>
         /// 创建多边形shp
         /// </summary>
@@ -1022,7 +1107,7 @@ namespace GISHandler
                 screenDisplay.SetSymbol((ISymbol)lineSymbol);
                 screenDisplay.DrawPolyline(pLine);
                 screenDisplay.FinishDrawing();
-                double l = pLine.Length*100;
+                double l = Math.Abs(pLine.Length*100);
                 //axMapControl.Map.MapUnits = esriUnits.esriKilometers;
                 //DialogResult r =MessageBox.Show("长度为：" + l.ToString() + "公里（km）","长度测量结果");
                 MessageBox.Show("长度为：" + Convert.ToDouble(l).ToString("0.000") + "千米（km）", "长度测量结果");
@@ -1062,7 +1147,7 @@ namespace GISHandler
             try
             {
                 IArea pArea = pGon as IArea;
-                double s = pArea.Area*10000;//
+                double s = Math.Abs(pArea.Area*10000);//
                 MessageBox.Show("测量面积为：" + Convert.ToDouble(s).ToString("0.000") + "平方公里（km2）", "面积测量结果");
                 IGraphicsContainer pDeletElement = axMapControl.ActiveView.FocusMap as IGraphicsContainer;
                 pDeletElement.DeleteAllElements();

@@ -468,7 +468,7 @@ namespace GeologicalDisasters
         private void axMapControl1_OnMouseMove(object sender, ESRI.ArcGIS.Controls.IMapControlEvents2_OnMouseMoveEvent e)
        {
            //显示当前比例尺
-       Coordinate.Text= "比例尺 1:" + ((long)this.axMapControl1.MapScale).ToString()+"  , 当前坐标X=" + e.mapX.ToString() + ",Y=" + e.mapY.ToString() + "," ;
+           Coordinate.Text = "比例尺 1:" + ((long)this.axMapControl1.MapScale).ToString() + "  , 当前坐标X=" + e.mapX.ToString("0.000") + "°E,Y=" + e.mapY.ToString("0.000") + "°N,";
        identifyDialog.OnMouseMove(e.mapX, e.mapY);
             //显示当前坐标信息
          

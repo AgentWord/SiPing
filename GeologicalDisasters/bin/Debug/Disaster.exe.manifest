@@ -2247,7 +2247,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>+GvjSIWQ13Pl6UKiVUPsthDGgLA=</dsig:DigestValue>
+        <dsig:DigestValue>wBXvepGNQs9OGbjV5KvG/RKsAro=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -2444,14 +2444,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SystemBase.dll" size="43520">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SystemBase.dll" size="44544">
       <assemblyIdentity name="SystemBase" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>RQUMV3vx1SpA7BOG5jc0YycvasQ=</dsig:DigestValue>
+        <dsig:DigestValue>Gh30Jo+QruSl9nP1uhG65TznhcA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
