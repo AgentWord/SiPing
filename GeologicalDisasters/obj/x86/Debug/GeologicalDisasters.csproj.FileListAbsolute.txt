@@ -1,0 +1,1587 @@
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.exe.config
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.exe
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.pdb
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\CommonHandler.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\SystemBase.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\CommonHandler.pdb
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\SystemBase.pdb
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.Data.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.Printing.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.Utils.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraBars.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.Sparkline.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraEditors.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraLayout.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraPrinting.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraScheduler.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraSpellChecker.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraTreeList.v14.1.resources.dll
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.exe.licenses
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.exe
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.pdb
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.AreaMeature.resources
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+F:\workspace\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.exe.config
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.exe
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.pdb
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.exe
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.pdb
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\CommonHandler.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SystemBase.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\CommonHandler.pdb
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SystemBase.pdb
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.Data.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.Printing.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.Utils.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraBars.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.Sparkline.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraEditors.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraLayout.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraPrinting.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraScheduler.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraSpellChecker.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\zh-Hans\DevExpress.XtraTreeList.v14.1.resources.dll
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.exe.licenses
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.exe.config
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.exe
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.pdb
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.exe
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SnowCover.pdb
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\CommonHandler.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SystemBase.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\CommonHandler.pdb
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\SystemBase.pdb
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\SnowCover.exe.licenses
+J:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+I:\四平项目\GeologicalDisasters\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\SnowCover.exe.config
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\SnowCover.exe
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\SnowCover.pdb
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\SnowCover.exe
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\SnowCover.pdb
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\CommonHandler.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\SystemBase.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\CommonHandler.pdb
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\SystemBase.pdb
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+I:\四平项目\四平矿区 - 副本\GeologicalDisasters\obj\x86\Debug\SnowCover.exe.licenses
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\SnowCover.exe
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\SnowCover.pdb
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\SnowCover.exe.config
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\SnowCover.exe
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\SnowCover.pdb
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\CommonHandler.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\SystemBase.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\CommonHandler.pdb
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\SystemBase.pdb
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Tend.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\SnowCover.exe.licenses
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SnowCover.exe.config
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\SnowCover.exe
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\SnowCover.pdb
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SnowCover.exe
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SnowCover.pdb
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\CommonHandler.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SystemBase.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\CommonHandler.pdb
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SystemBase.pdb
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.TableOfAttribute.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Tend.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\SnowCover.exe.licenses
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Edit.resources
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Web.Http.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Net.Http.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Web.Http.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Net.Http.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.xml
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+I:\四平项目\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SnowCover.exe.config
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\SnowCover.exe
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\SnowCover.pdb
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SnowCover.exe
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SnowCover.pdb
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\CommonHandler.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Web.Http.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SystemBase.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Net.Http.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\CommonHandler.pdb
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\SystemBase.pdb
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Web.Http.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Net.Http.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.xml
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Edit.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.TableOfAttribute.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Tend.resources
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+D:\四平矿区 - 副本 (2)\GeologicalDisasters\obj\x86\Debug\SnowCover.exe.licenses
+D:\四平矿区\GeologicalDisasters\bin\Debug\SnowCover.exe.config
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\SnowCover.exe
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\SnowCover.pdb
+D:\四平矿区\GeologicalDisasters\bin\Debug\SnowCover.exe
+D:\四平矿区\GeologicalDisasters\bin\Debug\SnowCover.pdb
+D:\四平矿区\GeologicalDisasters\bin\Debug\CommonHandler.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\System.Web.Http.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\SystemBase.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\System.Net.Http.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\CommonHandler.pdb
+D:\四平矿区\GeologicalDisasters\bin\Debug\SystemBase.pdb
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\System.Web.Http.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\System.Net.Http.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.xml
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\四平矿区\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Edit.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.TableOfAttribute.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Tend.resources
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\SnowCover.exe.licenses
+D:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.pagelayoutEdit.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Edit.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.pagelayoutEdit.resources
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\IdentifyTool.IdentifyDialog.resources
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.CodeRush.Common.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.CodeRush.Core.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.CodeRush.Interop.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.CodeRush.StructuralParser.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.CodeRush.VSCore.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.XtraBars.v6.3.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.XtraEditors.v6.3.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.XtraTreeList.v6.3.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Decompiler.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Localization.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.MetaData.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Parser.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Platform.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+I:\四平项目\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+I:\四平项目\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.SystemSet.resources
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\SystemBase.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\SystemBase.pdb
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Edit.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\IdentifyTool.IdentifyDialog.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.pagelayoutEdit.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.SystemSet.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Tend.resources
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+G:\四平矿区\GeologicalDisasters\bin\Debug\Disaster.exe.config
+G:\四平矿区\GeologicalDisasters\bin\Debug\Disaster.exe
+G:\四平矿区\GeologicalDisasters\bin\Debug\Disaster.pdb
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\Disaster.exe.licenses
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\Disaster.exe
+G:\四平矿区\GeologicalDisasters\obj\x86\Debug\Disaster.pdb
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe.config
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.pdb
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.pdb
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Web.Http.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\SystemBase.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Net.Http.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\SystemBase.pdb
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Web.Http.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Net.Http.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.xml
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Edit.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\IdentifyTool.IdentifyDialog.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.pagelayoutEdit.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.SystemSet.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Tend.resources
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe.licenses
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe.manifest
+D:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.application
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe.manifest
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.application
+D:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Inquiry.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe.config
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.pdb
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe.manifest
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.application
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.pdb
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Web.Http.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\SystemBase.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Net.Http.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\SystemBase.pdb
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Web.Http.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Net.Http.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\System.Net.Http.Formatting.xml
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Edit.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\IdentifyTool.IdentifyDialog.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Inquiry.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.pagelayoutEdit.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.SystemSet.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Tend.resources
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe.licenses
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe.manifest
+D:\陈杜彬_项目\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.application
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe.config
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.pdb
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe.manifest
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.application
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.exe
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Disaster.pdb
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.AxControls.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Version.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\SystemBase.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.DXCore.Controls.XtraLayout.v6.3.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.DXCore.AssemblyResolver.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\SystemBase.pdb
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Data.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Printing.v14.1.Core.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.SpellChecker.v14.1.Core.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Utils.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraBars.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.Sparkline.v14.1.Core.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraLayout.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraPrinting.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Reporting.Extensions.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Core.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraScheduler.v14.1.Extensions.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraSpellChecker.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\DevExpress.XtraTreeList.v14.1.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Carto.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Controls.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Display.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Geometry.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.Output.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.System.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Printing.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Printing.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Printing.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Printing.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.Sparkline.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraLayout.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraLayout.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraLayout.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraLayout.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraScheduler.v14.1.Extensions.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraSpellChecker.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraSpellChecker.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\de\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\es\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ja\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\bin\Debug\ru\DevExpress.XtraTreeList.v14.1.resources.dll
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csprojResolveAssemblyReference.cache
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Coordinate.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Buffer.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Edit.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\IdentifyTool.IdentifyDialog.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Inquiry.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.MainForm.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Modules.ucFileNavPanel.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.pagelayoutEdit.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Properties.Resources.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.StasticResult.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.SystemSet.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.Tend.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.csproj.GenerateResource.Cache
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe.licenses
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe.manifest
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.application
