@@ -1151,9 +1151,9 @@ namespace GISHandler
                 pDeletElement.DeleteAllElements();
                 axMapControl.ActiveView.Refresh();
             }
-            catch
+            catch(Exception ex)
             {
-                MessageBox.Show("无法测量面积！请正确画出测量区域···","提示");
+                MessageBox.Show(ex.Message);
             }
         }
         public static void AddLegend(AxPageLayoutControl pageLayoutControl)
