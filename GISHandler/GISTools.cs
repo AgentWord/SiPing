@@ -1130,9 +1130,7 @@ namespace GISHandler
             IActiveView pActiveView = axMapControl.ActiveView;
             IScreenDisplay screenDisplay = pActiveView.ScreenDisplay;
             ISimpleLineSymbol lineSymbol = new SimpleLineSymbolClass();
-            //ISimpleFillSymbol fillSymbol = new SimpleFillSymbolClass();
-            //fillSymbol.Outline = lineSymbol;
-            //fillSymbol.Style = esriSimpleFillStyle.esriSFSHollow;
+           
 
             IRgbColor rgbClolor = new RgbColorClass();
             lineSymbol.Width = 2;
