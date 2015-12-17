@@ -132,9 +132,9 @@ namespace GeologicalDisasters
                 int l = paths1.LastIndexOf("\\");
                string name= paths1.Substring(l+1);
 
-                GISHandler.GISTools.CreatePolygonFeatureclass(ply, @"G:\数据库\图层数据", name);
+               GISHandler.GISTools.CreatePolygonFeature(ply, @"G:\四平项目\数据库\图层数据", name);
                 MessageBox.Show("已成功保存！", "提示");
-                this.mapControl.AddShapeFile(@"G:\数据库\图层数据", paths1.Substring(paths1.Length - lengh + 1));
+                this.mapControl.AddShapeFile(@"G:\四平项目\数据库\图层数据", name);//.Substring(paths1.Length - lengh + 1)
             }
             catch (Exception ex)
             {

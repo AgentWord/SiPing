@@ -91,17 +91,14 @@ namespace GeologicalDisasters
         /// <returns></returns>
         public static FeatureLayer Stastic(AxMapControl axmapcontrol,int i,string name)
         {
-            ILayer pLayer;
-            IFeatureClass pFeatureClass;
-            IFeatureLayer pFeatureLayer;
             if (axmapcontrol == null || axmapcontrol.LayerCount < 2)
             { 
                 return null;
             }
            // pLayer = axmapcontrol.Map.Layer(0);
-            pLayer = axmapcontrol.ActiveView.FocusMap.get_Layer(i);
-            pFeatureLayer = pLayer as IFeatureLayer;
-            pFeatureClass = pFeatureLayer.FeatureClass;
+            ILayer pLayer = axmapcontrol.ActiveView.FocusMap.get_Layer(i);
+            IFeatureLayer pFeatureLayer = pLayer as IFeatureLayer;
+            IFeatureClass pFeatureClass = pFeatureLayer.FeatureClass;
            
             ITable table = pFeatureClass as ITable;
             
@@ -114,7 +111,7 @@ namespace GeologicalDisasters
             //Intersect intersect=new Intersect()
             Double tol=0.0;
             IWorkspaceFactory wspfctry = new ShapefileWorkspaceFactory();
-            IWorkspace pWorkSpace = wspfctry.OpenFromFile(@"G:\数据库\实验数据", 0);
+            IWorkspace pWorkSpace = wspfctry.OpenFromFile(@"G:\四平项目\数据库\实验数据", 0);
 
             IDataset pDataset = (IDataset)pWorkSpace;
             IName pName=pDataset.FullName;

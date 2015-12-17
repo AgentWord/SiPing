@@ -22,8 +22,8 @@ namespace GeologicalDisasters
 {
     public partial class Tend : Form
     {
-        private double distance;
-        string meters = "Meters";
+        //private double distance;
+        //string meters = "Meters";
         string[] name = { "模拟矿区趋势_三月", "模拟矿区趋势_六月", "模拟矿区趋势_一年" };
         string[] name1 = { "2015年7月12日采集坐标点.txt_三月", "2015年7月12日采集坐标点.txt_六月", "2015年7月12日采集坐标点.txt_一年" };
         private IHookHelper m_hookHelper = null;
@@ -57,6 +57,17 @@ namespace GeologicalDisasters
                 MessageBox.Show("请选择时段", "提示！");
                 return;
             }
+            try
+            {
+                progress(1000);
+                ILayer ly = (ILayer)StasticResult.Stastic(axmapcontrol,0, "stastic");
+                gridControl1.DataSource = StasticResult.creatDataTable(ly, "统计分析");
+                groupPanel1.Text ="分析结果信息";
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }/*
             if (LayerSelect.SelectedItem == "模拟矿区坐标点.txt")
             {
 
@@ -129,7 +140,7 @@ namespace GeologicalDisasters
                 }
             }
             
-          
+          */
             
             /*
             IFeatureLayer layer = GetFeatureLayer((string)LayerSelect.SelectedItem);

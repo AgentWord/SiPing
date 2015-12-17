@@ -63,7 +63,7 @@ namespace GeologicalDisasters
         private void MainForm_Load(object sender, EventArgs e)
         {
             
-            axMapControl1.LoadMxFile(@"G:\数据库\地图数据\演示数据.mxd", 0, Type.Missing);  
+            axMapControl1.LoadMxFile(@"G:\四平项目\数据库\地图数据\演示数据.mxd", 0, Type.Missing);  
             //axMapControl1.AddShapeFile(@"I:\四平项目\实验数据", "东丰县行政区域");
             m_menuMap = new ToolbarMenuClass();
             m_menuLayer = new ToolbarMenuClass();
@@ -418,7 +418,7 @@ namespace GeologicalDisasters
         {
             xtraTabPage_DataNav.Show();
             // LoadFiles("G:\\数据库\\坐标数据");
-            GISHandler.GISTools.GainFile("G:\\数据库\\坐标数据", this.listView1, this.imageList1);
+            GISHandler.GISTools.GainFile(@"G:\四平项目\数据库\坐标数据", this.listView1, this.imageList1);
             axMapControl1.ClearLayers();
             //axMapControl1.LoadMxFile(@"G:\数据库\地图数据\演示数据.mxd", 0, Type.Missing);
             axMapControl1.OnMouseDown += axMapControl1_OnMouseDown;
@@ -796,7 +796,7 @@ namespace GeologicalDisasters
         private void barButtonItem6_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             xtraTabPage_MapLayers.Show();
-            axMapControl1.LoadMxFile(@"G:\数据库\地图数据\演示数据.mxd", 0, Type.Missing);
+            axMapControl1.LoadMxFile(@"G:\四平项目\数据库\地图数据\演示数据.mxd", 0, Type.Missing);
         }
 
         private void but_AddShp_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)

@@ -705,7 +705,7 @@ namespace GISHandler
                 screenDisplay.FinishDrawing();
                 if (MessageBox.Show("是否进行统计？", "询问", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
                 {
-                    CreatePolygonFeature(pGon, @"G:\数据库\图层数据", "统计");
+                    CreatePolygonFeature(pGon, @"G:\四平项目\数据库\图层数据", "统计");
                     //axMapControl.AddShapeFile(@"G:\数据库\图层数据", "统计");
 
                 
@@ -1334,14 +1334,14 @@ namespace GISHandler
 
             }
         }
-       //public IFeatureLayer pFeaturelayer = new FeatureLayerClass();
+      
         public static void cp(IPolygon pPolygon)
         {
             
             
             SaveFileDialog saveFileDialog = new SaveFileDialog();
             saveFileDialog.Filter = "Shape文件（*.shp）|*.shp";
-            saveFileDialog.Title = "新建面形shp文件";
+            saveFileDialog.Title = "新建面shp文件";
             saveFileDialog.CheckFileExists = true;
             saveFileDialog.RestoreDirectory = true;
             DialogResult dialogResult = saveFileDialog.ShowDialog();
@@ -1609,9 +1609,9 @@ namespace GISHandler
                     }
                 }
             }
-            catch 
+            catch(Exception  ex) 
             {
-                MessageBox.Show("失败");
+                MessageBox.Show(ex.Message);
             }
         }
         ///<summary>Add a Legend to the Page Layout from the Map.</summary>
