@@ -1433,7 +1433,7 @@ namespace GISHandler
             }
             
         }
-        
+        #region 制图编辑（比例尺、指北针、图例、图名等）
         public static void AddScalebar(AxPageLayoutControl axpagelayoutcontrol, ESRI.ArcGIS.Carto.IMap map)
         {
             IPageLayout pageLayout;
@@ -1650,6 +1650,8 @@ namespace GISHandler
             element.Geometry = envelope;
             graphicsContainer.AddElement(element, 0);
         }
+        #endregion
+
         //删除gridcontrol中 的记录
         public static void datagridviewdel_Dev(DevExpress.XtraGrid.Views.Grid.GridView Mydgv)
         {

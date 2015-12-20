@@ -329,6 +329,18 @@
     <Compile Include="Tend.Designer.cs">
       <DependentUpon>Tend.cs</DependentUpon>
     </Compile>
+    <Compile Include="地块拓展潜力.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="地块拓展潜力.Designer.cs">
+      <DependentUpon>地块拓展潜力.cs</DependentUpon>
+    </Compile>
+    <Compile Include="拓展潜力.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="拓展潜力.Designer.cs">
+      <DependentUpon>拓展潜力.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Coordinate.resx">
       <DependentUpon>Coordinate.cs</DependentUpon>
     </EmbeddedResource>
@@ -373,6 +385,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Tend.resx">
       <DependentUpon>Tend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="地块拓展潜力.resx">
+      <DependentUpon>地块拓展潜力.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="拓展潜力.resx">
+      <DependentUpon>拓展潜力.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="GeologicalDisasters_TemporaryKey.pfx" />
