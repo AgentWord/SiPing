@@ -688,11 +688,14 @@ namespace GeologicalDisasters
             //IGeoFeatureLayer player=(IGeoFeatureLayer)flayer;
             //GISHandler.GISTools.Annotation(player, axMapControl1.Map, "NAME", this.axMapControl1);
             //areaMeasure = true;
-            MessageBox.Show(axMapControl1.DocumentFilename);
-            MessageBox.Show(axMapControl1.DocumentMap);
+            //MessageBox.Show(axMapControl1.DocumentFilename);
+            //MessageBox.Show(axMapControl1.DocumentMap);
             //MessageBox.Show(axMapControl1.mxd)
             //MessageBox.Show(axMapControl1);
-
+            拓展潜力 t = new 拓展潜力();
+            t.StartPosition=FormStartPosition.CenterScreen;
+            t.Show();
+            
         
         
         }

@@ -25,5 +25,32 @@ namespace GeologicalDisasters
         {
 
         }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("保存成功！是否进入计算界面？", "提示", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+            {
+                地块拓展潜力 dt = new 地块拓展潜力();
+                dt.StartPosition = FormStartPosition.CenterScreen;
+                dt.Show();
+                this.Close();
+
+            }
+            else
+                return;
+        }
+
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void simpleButton3_Click(object sender, EventArgs e)
+        {
+            地块拓展潜力 dt = new 地块拓展潜力();
+            dt.StartPosition = FormStartPosition.CenterScreen;
+            dt.Show();
+            this.Close();
+        }
     }
 }

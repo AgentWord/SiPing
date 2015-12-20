@@ -1585,3 +1585,5 @@ G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Geological
 G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe.licenses
 G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.exe.manifest
 G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\Disaster.application
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.地块拓展潜力.resources
+G:\四平项目\四平矿区_源码\GeologicalDisasters\obj\x86\Debug\GeologicalDisasters.拓展潜力.resources

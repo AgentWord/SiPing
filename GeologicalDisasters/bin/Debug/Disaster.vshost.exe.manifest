@@ -2240,14 +2240,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Disaster.exe" size="1723392">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Disaster.exe" size="1736192">
       <assemblyIdentity name="Disaster" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>B3YbCR1ANYjiSLcqJnncumU4nc0=</dsig:DigestValue>
+        <dsig:DigestValue>WZE3t5a1ZptmaNPUId4O10rB6tY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -2444,14 +2444,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SystemBase.dll" size="44544">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SystemBase.dll" size="44032">
       <assemblyIdentity name="SystemBase" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>IIfcR/b6ypchZ3+FBOrW2EPFobg=</dsig:DigestValue>
+        <dsig:DigestValue>fcMJU6jhSKHH3/Yofeg9CLBukrI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
