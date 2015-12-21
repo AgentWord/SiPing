@@ -693,9 +693,9 @@ namespace GeologicalDisasters
             //MessageBox.Show(axMapControl1.DocumentMap);
             //MessageBox.Show(axMapControl1.mxd)
             //MessageBox.Show(axMapControl1);
-            拓展潜力 t = new 拓展潜力();
-            t.StartPosition=FormStartPosition.CenterScreen;
-            t.Show();
+            选择地块 chose = new 选择地块(this.axMapControl1);
+            chose.StartPosition=FormStartPosition.CenterScreen;
+            chose.Show();
             
         
         

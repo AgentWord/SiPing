@@ -31,6 +31,7 @@
             this.groupControl5 = new DevExpress.XtraEditors.GroupControl();
             this.groupControl6 = new DevExpress.XtraEditors.GroupControl();
             this.groupControl7 = new DevExpress.XtraEditors.GroupControl();
+            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             this.textEdit6 = new DevExpress.XtraEditors.TextEdit();
             this.textEdit7 = new DevExpress.XtraEditors.TextEdit();
             this.textEdit8 = new DevExpress.XtraEditors.TextEdit();
@@ -41,21 +42,20 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
-            this.groupControl3 = new DevExpress.XtraEditors.GroupControl();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
-            this.textEdit1 = new DevExpress.XtraEditors.TextEdit();
-            this.textEdit2 = new DevExpress.XtraEditors.TextEdit();
-            this.textEdit4 = new DevExpress.XtraEditors.TextEdit();
-            this.textEdit3 = new DevExpress.XtraEditors.TextEdit();
             this.groupControl4 = new DevExpress.XtraEditors.GroupControl();
-            this.textEdit5 = new DevExpress.XtraEditors.TextEdit();
             this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            this.textEdit5 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit3 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit4 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit2 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit1 = new DevExpress.XtraEditors.TextEdit();
+            this.groupControl3 = new DevExpress.XtraEditors.GroupControl();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl5)).BeginInit();
             this.groupControl5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl6)).BeginInit();
@@ -71,17 +71,17 @@
             this.groupControl8.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl3)).BeginInit();
-            this.groupControl3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
             this.groupControl2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit2.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit4.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit3.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl4)).BeginInit();
             this.groupControl4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit5.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit3.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit4.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit2.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl3)).BeginInit();
+            this.groupControl3.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupControl5
@@ -91,7 +91,7 @@
             this.groupControl5.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupControl5.Location = new System.Drawing.Point(0, 175);
             this.groupControl5.Name = "groupControl5";
-            this.groupControl5.Size = new System.Drawing.Size(348, 190);
+            this.groupControl5.Size = new System.Drawing.Size(343, 190);
             this.groupControl5.TabIndex = 1;
             this.groupControl5.Text = "地块拓展潜力";
             // 
@@ -105,7 +105,7 @@
             this.groupControl6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupControl6.Location = new System.Drawing.Point(86, 22);
             this.groupControl6.Name = "groupControl6";
-            this.groupControl6.Size = new System.Drawing.Size(260, 166);
+            this.groupControl6.Size = new System.Drawing.Size(255, 166);
             this.groupControl6.TabIndex = 7;
             this.groupControl6.Text = "建设用地_地块拓展潜力P\'_i";
             // 
@@ -114,11 +114,19 @@
             this.groupControl7.Controls.Add(this.simpleButton2);
             this.groupControl7.Controls.Add(this.textEdit6);
             this.groupControl7.Dock = System.Windows.Forms.DockStyle.Right;
-            this.groupControl7.Location = new System.Drawing.Point(120, 22);
+            this.groupControl7.Location = new System.Drawing.Point(115, 22);
             this.groupControl7.Name = "groupControl7";
             this.groupControl7.Size = new System.Drawing.Size(138, 142);
             this.groupControl7.TabIndex = 3;
             this.groupControl7.Text = "地块平均拓展潜力P";
+            // 
+            // simpleButton2
+            // 
+            this.simpleButton2.Location = new System.Drawing.Point(39, 70);
+            this.simpleButton2.Name = "simpleButton2";
+            this.simpleButton2.Size = new System.Drawing.Size(75, 23);
+            this.simpleButton2.TabIndex = 1;
+            this.simpleButton2.Text = "计算";
             // 
             // textEdit6
             // 
@@ -210,14 +218,6 @@
             this.label8.TabIndex = 2;
             this.label8.Text = "耕地";
             // 
-            // simpleButton2
-            // 
-            this.simpleButton2.Location = new System.Drawing.Point(39, 70);
-            this.simpleButton2.Name = "simpleButton2";
-            this.simpleButton2.Size = new System.Drawing.Size(75, 23);
-            this.simpleButton2.TabIndex = 1;
-            this.simpleButton2.Text = "计算";
-            // 
             // groupControl1
             // 
             this.groupControl1.Controls.Add(this.groupControl2);
@@ -225,9 +225,83 @@
             this.groupControl1.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupControl1.Location = new System.Drawing.Point(0, 0);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(348, 175);
+            this.groupControl1.Size = new System.Drawing.Size(343, 175);
             this.groupControl1.TabIndex = 0;
             this.groupControl1.Text = "地块变动潜力";
+            // 
+            // groupControl2
+            // 
+            this.groupControl2.Controls.Add(this.groupControl4);
+            this.groupControl2.Controls.Add(this.textEdit3);
+            this.groupControl2.Controls.Add(this.textEdit4);
+            this.groupControl2.Controls.Add(this.textEdit2);
+            this.groupControl2.Controls.Add(this.textEdit1);
+            this.groupControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupControl2.Location = new System.Drawing.Point(86, 22);
+            this.groupControl2.Name = "groupControl2";
+            this.groupControl2.Size = new System.Drawing.Size(255, 151);
+            this.groupControl2.TabIndex = 7;
+            this.groupControl2.Text = "建设用地_地块变动潜力P_i";
+            // 
+            // groupControl4
+            // 
+            this.groupControl4.Controls.Add(this.simpleButton1);
+            this.groupControl4.Controls.Add(this.textEdit5);
+            this.groupControl4.Dock = System.Windows.Forms.DockStyle.Right;
+            this.groupControl4.Location = new System.Drawing.Point(115, 22);
+            this.groupControl4.Name = "groupControl4";
+            this.groupControl4.Size = new System.Drawing.Size(138, 127);
+            this.groupControl4.TabIndex = 3;
+            this.groupControl4.Text = "地块平均变动潜力P";
+            // 
+            // simpleButton1
+            // 
+            this.simpleButton1.Location = new System.Drawing.Point(39, 70);
+            this.simpleButton1.Name = "simpleButton1";
+            this.simpleButton1.Size = new System.Drawing.Size(75, 23);
+            this.simpleButton1.TabIndex = 1;
+            this.simpleButton1.Text = "计算";
+            // 
+            // textEdit5
+            // 
+            this.textEdit5.EditValue = "0.036";
+            this.textEdit5.Location = new System.Drawing.Point(14, 36);
+            this.textEdit5.Name = "textEdit5";
+            this.textEdit5.Size = new System.Drawing.Size(100, 20);
+            this.textEdit5.TabIndex = 0;
+            // 
+            // textEdit3
+            // 
+            this.textEdit3.EditValue = "0.040";
+            this.textEdit3.Location = new System.Drawing.Point(5, 89);
+            this.textEdit3.Name = "textEdit3";
+            this.textEdit3.Size = new System.Drawing.Size(100, 20);
+            this.textEdit3.TabIndex = 0;
+            // 
+            // textEdit4
+            // 
+            this.textEdit4.EditValue = "0.002";
+            this.textEdit4.Location = new System.Drawing.Point(5, 119);
+            this.textEdit4.Name = "textEdit4";
+            this.textEdit4.Size = new System.Drawing.Size(100, 20);
+            this.textEdit4.TabIndex = 0;
+            // 
+            // textEdit2
+            // 
+            this.textEdit2.EditValue = "0.030";
+            this.textEdit2.Location = new System.Drawing.Point(5, 26);
+            this.textEdit2.Name = "textEdit2";
+            this.textEdit2.Size = new System.Drawing.Size(100, 20);
+            this.textEdit2.TabIndex = 0;
+            // 
+            // textEdit1
+            // 
+            this.textEdit1.EditValue = "0.928";
+            this.textEdit1.Location = new System.Drawing.Point(5, 58);
+            this.textEdit1.Name = "textEdit1";
+            this.textEdit1.Size = new System.Drawing.Size(100, 20);
+            this.textEdit1.TabIndex = 0;
+            this.textEdit1.EditValueChanged += new System.EventHandler(this.textEdit1_EditValueChanged);
             // 
             // groupControl3
             // 
@@ -242,23 +316,14 @@
             this.groupControl3.TabIndex = 6;
             this.groupControl3.Text = "地物类型";
             // 
-            // label3
+            // label4
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(13, 31);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(29, 12);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "耕地";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(13, 61);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 12);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "建设用地";
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(13, 92);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(41, 12);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "草林地";
             // 
             // label5
             // 
@@ -269,94 +334,29 @@
             this.label5.TabIndex = 4;
             this.label5.Text = "未利用地";
             // 
-            // label4
+            // label2
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(13, 92);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(41, 12);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "草林地";
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(13, 61);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(53, 12);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "建设用地";
             // 
-            // groupControl2
+            // label3
             // 
-            this.groupControl2.Controls.Add(this.groupControl4);
-            this.groupControl2.Controls.Add(this.textEdit3);
-            this.groupControl2.Controls.Add(this.textEdit4);
-            this.groupControl2.Controls.Add(this.textEdit2);
-            this.groupControl2.Controls.Add(this.textEdit1);
-            this.groupControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupControl2.Location = new System.Drawing.Point(86, 22);
-            this.groupControl2.Name = "groupControl2";
-            this.groupControl2.Size = new System.Drawing.Size(260, 151);
-            this.groupControl2.TabIndex = 7;
-            this.groupControl2.Text = "建设用地_地块变动潜力P_i";
-            // 
-            // textEdit1
-            // 
-            this.textEdit1.EditValue = "0.928";
-            this.textEdit1.Location = new System.Drawing.Point(5, 58);
-            this.textEdit1.Name = "textEdit1";
-            this.textEdit1.Size = new System.Drawing.Size(100, 20);
-            this.textEdit1.TabIndex = 0;
-            this.textEdit1.EditValueChanged += new System.EventHandler(this.textEdit1_EditValueChanged);
-            // 
-            // textEdit2
-            // 
-            this.textEdit2.EditValue = "0.030";
-            this.textEdit2.Location = new System.Drawing.Point(5, 26);
-            this.textEdit2.Name = "textEdit2";
-            this.textEdit2.Size = new System.Drawing.Size(100, 20);
-            this.textEdit2.TabIndex = 0;
-            // 
-            // textEdit4
-            // 
-            this.textEdit4.EditValue = "0.002";
-            this.textEdit4.Location = new System.Drawing.Point(5, 119);
-            this.textEdit4.Name = "textEdit4";
-            this.textEdit4.Size = new System.Drawing.Size(100, 20);
-            this.textEdit4.TabIndex = 0;
-            // 
-            // textEdit3
-            // 
-            this.textEdit3.EditValue = "0.040";
-            this.textEdit3.Location = new System.Drawing.Point(5, 89);
-            this.textEdit3.Name = "textEdit3";
-            this.textEdit3.Size = new System.Drawing.Size(100, 20);
-            this.textEdit3.TabIndex = 0;
-            // 
-            // groupControl4
-            // 
-            this.groupControl4.Controls.Add(this.simpleButton1);
-            this.groupControl4.Controls.Add(this.textEdit5);
-            this.groupControl4.Dock = System.Windows.Forms.DockStyle.Right;
-            this.groupControl4.Location = new System.Drawing.Point(120, 22);
-            this.groupControl4.Name = "groupControl4";
-            this.groupControl4.Size = new System.Drawing.Size(138, 127);
-            this.groupControl4.TabIndex = 3;
-            this.groupControl4.Text = "地块平均变动潜力P";
-            // 
-            // textEdit5
-            // 
-            this.textEdit5.EditValue = "0.036";
-            this.textEdit5.Location = new System.Drawing.Point(14, 36);
-            this.textEdit5.Name = "textEdit5";
-            this.textEdit5.Size = new System.Drawing.Size(100, 20);
-            this.textEdit5.TabIndex = 0;
-            // 
-            // simpleButton1
-            // 
-            this.simpleButton1.Location = new System.Drawing.Point(39, 70);
-            this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(75, 23);
-            this.simpleButton1.TabIndex = 1;
-            this.simpleButton1.Text = "计算";
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(13, 31);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(29, 12);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "耕地";
             // 
             // 地块拓展潜力
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(348, 366);
+            this.ClientSize = new System.Drawing.Size(343, 348);
             this.Controls.Add(this.groupControl5);
             this.Controls.Add(this.groupControl1);
             this.Name = "地块拓展潜力";
@@ -377,18 +377,18 @@
             this.groupControl8.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl3)).EndInit();
-            this.groupControl3.ResumeLayout(false);
-            this.groupControl3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
             this.groupControl2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit2.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit4.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.textEdit3.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl4)).EndInit();
             this.groupControl4.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.textEdit5.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit3.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit4.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit2.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl3)).EndInit();
+            this.groupControl3.ResumeLayout(false);
+            this.groupControl3.PerformLayout();
             this.ResumeLayout(false);
 
         }

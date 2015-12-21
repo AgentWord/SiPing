@@ -341,6 +341,12 @@
     <Compile Include="拓展潜力.Designer.cs">
       <DependentUpon>拓展潜力.cs</DependentUpon>
     </Compile>
+    <Compile Include="选择地块.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="选择地块.Designer.cs">
+      <DependentUpon>选择地块.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Coordinate.resx">
       <DependentUpon>Coordinate.cs</DependentUpon>
     </EmbeddedResource>
@@ -391,6 +397,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="拓展潜力.resx">
       <DependentUpon>拓展潜力.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="选择地块.resx">
+      <DependentUpon>选择地块.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="GeologicalDisasters_TemporaryKey.pfx" />
