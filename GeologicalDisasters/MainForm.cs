@@ -62,8 +62,9 @@ namespace GeologicalDisasters
         }
         private void MainForm_Load(object sender, EventArgs e)
         {
-            
-            axMapControl1.LoadMxFile(@"G:\四平项目\数据库\地图数据\演示数据.mxd", 0, Type.Missing);  
+
+            //axMapControl1.LoadMxFile(@"G:\四平项目\数据库\地图数据\演示数据.mxd", 0, Type.Missing);
+            axMapControl1.LoadMxFile(@"D:\各种结课作业\地籍测量\地块拓展.mxd", 0, Type.Missing);  
             //axMapControl1.AddShapeFile(@"I:\四平项目\实验数据", "东丰县行政区域");
             m_menuMap = new ToolbarMenuClass();
             m_menuLayer = new ToolbarMenuClass();
