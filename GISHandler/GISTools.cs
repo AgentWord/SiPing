@@ -594,7 +594,7 @@ namespace GISHandler
             
             try
             {
-                queryFilter.WhereClause = "CC = '" + searchName + "'";
+                queryFilter.WhereClause = "用地类型 = '" + searchName + "'";
                 IFeatureCursor featureCusor = featureLayer.Search(queryFilter, false); ;
                 //featureCusor 
              

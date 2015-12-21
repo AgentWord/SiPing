@@ -77,5 +77,11 @@ namespace GeologicalDisasters
             }
 
         }
+
+        private void choose_landName_SelectedValueChanged(object sender, EventArgs e)
+        {
+          int m= GISHandler.GISTools.query(axmapcontrol,choose_landName.Text,layerComboBox.SelectedIndex,true);
+          label1.Text = "选择了:"+choose_landName.Text + m.ToString() + "个地块";
+        }
     }
 }

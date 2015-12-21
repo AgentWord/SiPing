@@ -2240,14 +2240,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Disaster.exe" size="1738752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Disaster.exe" size="1740288">
       <assemblyIdentity name="Disaster" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>KyOLKb5EVy9Z+vqZOz278Q2vR40=</dsig:DigestValue>
+        <dsig:DigestValue>l9ncIEzTjPGS2WF8a0eaZjrdOk0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -2451,7 +2451,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>p5MupaftQQQ0HqL4jci89T1eyRk=</dsig:DigestValue>
+        <dsig:DigestValue>sa30vC+gnBI3/OPS1V8oSkoZG8Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
