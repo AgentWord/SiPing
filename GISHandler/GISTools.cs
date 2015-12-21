@@ -532,6 +532,43 @@ namespace GISHandler
             }
 
         }
+        /// <summary>
+        /// 获取字段唯一值
+        /// </summary>
+        public static string[] GetUniqueValue(AxMapControl axMapControl1, int index,string strFld)
+        {
+
+            ILayer layer = axMapControl1.get_Layer(index);
+            IFeatureLayer featureLayer = layer as IFeatureLayer;
+            int i = 0;
+            if (featureLayer == null)
+            {
+                MessageBox.Show("选择图层不是Feature图层！");
+                return null ;
+            }
+            //获取featureLayer的featureClass 
+
+            IFeatureClass pFeatureClass = featureLayer.FeatureClass;
+            //得到IFeatureCursor游标
+            IFeatureCursor pCursor = pFeatureClass.Search(null, false);
+            //coClass对象实例生成
+            IDataStatistics pData = new DataStatisticsClass();
+            pData.Field = strFld;
+            pData.Cursor = pCursor as ICursor;
+            //枚举唯一值
+            System.Collections.IEnumerator pEnumVar = pData.UniqueValues;
+            //记录总数
+            int RecordCount = pData.UniqueValueCount;
+            //字符数组
+            string[] strValue = new string[RecordCount];
+            pEnumVar.Reset();
+            //int i = 0;
+            while (pEnumVar.MoveNext())
+            {
+                strValue[i++] = pEnumVar.Current.ToString();
+            }
+            return strValue;
+        }
         public static int query(AxMapControl axMapControl1, string searchName,int index,bool flash)
         {
             ILayer layer = axMapControl1.get_Layer(index);

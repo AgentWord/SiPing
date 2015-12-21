@@ -25,12 +25,14 @@ namespace GeologicalDisasters
                 拓展潜力 t = new 拓展潜力();
                 t.StartPosition = FormStartPosition.CenterScreen;
                 t.Show();
+                this.Close();
             }
             else
             {
                 地块拓展潜力 dt = new 地块拓展潜力();
                 dt.StartPosition = FormStartPosition.CenterParent;
                 dt.Show();
+                this.Close();
             }
         }
 
@@ -42,6 +44,7 @@ namespace GeologicalDisasters
         private void 选择地块_Load(object sender, EventArgs e)
         {
             RefreshLayer();
+            get_LandName();
         }
         private void RefreshLayer()
         {
@@ -56,6 +59,22 @@ namespace GeologicalDisasters
             }
 
             layerComboBox.Text = layerComboBox.Items[0].ToString();
+
+        }
+        private void get_LandName()
+        {
+            try
+            {
+                string[] name = GISHandler.GISTools.GetUniqueValue(axmapcontrol, layerComboBox.SelectedIndex, "用地类型");
+                for (int i = 0; i < name.Length; i++)
+                {
+                    choose_landName.Items.Add(name[i]);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
 
         }
     }

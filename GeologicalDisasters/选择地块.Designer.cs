@@ -31,7 +31,7 @@
             this.layerComboBox = new DevComponents.DotNetBar.Controls.ComboBoxEx();
             this.labelX2 = new DevComponents.DotNetBar.LabelX();
             this.labelX1 = new DevComponents.DotNetBar.LabelX();
-            this.comboBoxEx1 = new DevComponents.DotNetBar.Controls.ComboBoxEx();
+            this.choose_landName = new DevComponents.DotNetBar.Controls.ComboBoxEx();
             this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             this.SuspendLayout();
@@ -72,17 +72,17 @@
             this.labelX1.TabIndex = 6;
             this.labelX1.Text = "选择图层：";
             // 
-            // comboBoxEx1
+            // choose_landName
             // 
-            this.comboBoxEx1.DisplayMember = "Text";
-            this.comboBoxEx1.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.comboBoxEx1.FormattingEnabled = true;
-            this.comboBoxEx1.ItemHeight = 15;
-            this.comboBoxEx1.Location = new System.Drawing.Point(86, 85);
-            this.comboBoxEx1.Name = "comboBoxEx1";
-            this.comboBoxEx1.Size = new System.Drawing.Size(162, 21);
-            this.comboBoxEx1.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
-            this.comboBoxEx1.TabIndex = 7;
+            this.choose_landName.DisplayMember = "Text";
+            this.choose_landName.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.choose_landName.FormattingEnabled = true;
+            this.choose_landName.ItemHeight = 15;
+            this.choose_landName.Location = new System.Drawing.Point(86, 85);
+            this.choose_landName.Name = "choose_landName";
+            this.choose_landName.Size = new System.Drawing.Size(162, 21);
+            this.choose_landName.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
+            this.choose_landName.TabIndex = 7;
             // 
             // simpleButton1
             // 
@@ -109,7 +109,7 @@
             this.ClientSize = new System.Drawing.Size(284, 194);
             this.Controls.Add(this.simpleButton2);
             this.Controls.Add(this.simpleButton1);
-            this.Controls.Add(this.comboBoxEx1);
+            this.Controls.Add(this.choose_landName);
             this.Controls.Add(this.labelX1);
             this.Controls.Add(this.layerComboBox);
             this.Controls.Add(this.labelX2);
@@ -125,7 +125,7 @@
         private DevComponents.DotNetBar.Controls.ComboBoxEx layerComboBox;
         private DevComponents.DotNetBar.LabelX labelX2;
         private DevComponents.DotNetBar.LabelX labelX1;
-        private DevComponents.DotNetBar.Controls.ComboBoxEx comboBoxEx1;
+        private DevComponents.DotNetBar.Controls.ComboBoxEx choose_landName;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
         private DevExpress.XtraEditors.SimpleButton simpleButton2;
     }
