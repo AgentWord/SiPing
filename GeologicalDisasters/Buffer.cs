@@ -94,18 +94,40 @@ namespace GeologicalDisasters
           }
             Geoprocessor gp = new Geoprocessor();
             gp.OverwriteOutput = true;
-            double[] dis = { 0,bufferDistance, bufferDistance2 ,bufferDistance3 };
-            string[] level={"","高级","中级","低级"};
-            int i=1;
+            double[] dis = { 0, bufferDistance, bufferDistance2, bufferDistance3 };
+            double[]distance={bufferDistance,bufferDistance2,bufferDistance3};
+            string[] level = { "", "高级", "中级", "低级" };
+            int i = 1;
+            txtOutputPath.Text = System.IO.Path.Combine(SystemSet.Base_Map + "\\处理数据库\\实验数据", (level[i] + "_" + (string)cboLayers.SelectedItem + "_范围.shp"));
+             int l1 = txtOutputPath.Text.LastIndexOf("\\");
+             lab_message.Text = txtOutputPath.Text.Substring(l1 + 1) + "正在处理···";
+             ESRI.ArcGIS.AnalysisTools.MultipleRingBuffer mulBuffer = new MultipleRingBuffer();
+             mulBuffer.Input_Features = layer;
+             mulBuffer.Output_Feature_class = txtOutputPath.Text;
+             mulBuffer.Buffer_Unit = "Meters";
+             mulBuffer.Distances = distance;//[bufferDistance, bufferDistance2, bufferDistance3];
+             mulBuffer.Outside_Polygons_Only = "full";
+             mulBuffer.Field_Name = "分析半径";
+             gp.Execute(mulBuffer, null);
+             MessageBox.Show("成功");
+
+           
+          
             while (i < 4)
             {
                 //修改当前指针样式  
                 this.Cursor = Cursors.WaitCursor; 
                 //调用缓冲去区处理工具buffer
-                txtOutputPath.Text = System.IO.Path.Combine(@"G:\数据库\实验数据", (level[i] + "_" + (string)cboLayers.SelectedItem + "_buffer.shp"));
-                ESRI.ArcGIS.AnalysisTools.Buffer buffer = new ESRI.ArcGIS.AnalysisTools.Buffer(layer, txtOutputPath.Text, Convert.ToString(dis[i]) + " " +DW);//单级缓冲
+                txtOutputPath.Text = System.IO.Path.Combine(SystemSet.Base_Map+"\\处理数据库\\实验数据", (level[i] + "_" + (string)cboLayers.SelectedItem + "_buffer.shp"));
+                int l = txtOutputPath.Text.LastIndexOf("\\");
+                lab_message.Text = txtOutputPath.Text.Substring(l+1) + "正在处理···";
+                ESRI.ArcGIS.AnalysisTools.Buffer buffer = new ESRI.ArcGIS.AnalysisTools.Buffer(layer, txtOutputPath.Text, Convert.ToString(dis[i]) +" "+DW);//单级缓冲
+                
+                 //gp.Execute(buffer, null);
                 try
                 {
+                   
+
                     IGeoProcessorResult results = (IGeoProcessorResult)gp.Execute(buffer, null);
                     if (results.Status != esriJobStatus.esriJobSucceeded)
                     {
@@ -131,9 +153,9 @@ namespace GeologicalDisasters
                     i++;
                     
                 }
-                catch
+                catch(Exception ex)
                 {
-                    MessageBox.Show("处理失败");
+                    MessageBox.Show(ex.Message);
                     this.Cursor = Cursors.Default;
                     this.Close();
                     return;
@@ -159,7 +181,6 @@ namespace GeologicalDisasters
             //get the layers from the maps
             IEnumLayer layers = GetLayers();
             layers.Reset();
-
             ILayer layer = null;
             while ((layer = layers.Next()) != null)
             {
@@ -174,7 +195,8 @@ namespace GeologicalDisasters
         {
           
             UID uid = new UIDClass();
-            uid.Value = "{40A9E885-5533-11d0-98BE-00805F7CED21}";// 代表只获取矢量图层
+            uid.Value = "{6CA416B1-E160-11D2-9F4E-00C04F6BC78E}";
+            //uid.Value = "{40A9E885-5533-11d0-98BE-00805F7CED21}";// 代表只获取矢量图层
             //问题在这个地方 解决！
             IEnumLayer layers = m_hookHelper.FocusMap.get_Layers(uid, true);
 
@@ -217,7 +239,7 @@ namespace GeologicalDisasters
                 cboLayers.SelectedIndex = 0;
 
            // string tempDir = System.IO.Path.GetTempPath();
-            string tempDir = @"G:\数据库\实验数据";
+            string tempDir = SystemSet.Base_Map+"\\处理数据库\\实验数据";
             txtOutputPath.Text = System.IO.Path.Combine(tempDir, ((string)cboLayers.SelectedItem + "_buffer.shp"));
 
             

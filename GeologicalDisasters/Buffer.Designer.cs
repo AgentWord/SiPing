@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.panelEx1 = new DevComponents.DotNetBar.PanelEx();
+            this.lab_message = new System.Windows.Forms.Label();
             this.CNunit = new DevComponents.DotNetBar.Controls.ComboBoxEx();
             this.unit1 = new DevComponents.Editors.ComboItem();
             this.unit2 = new DevComponents.Editors.ComboItem();
@@ -54,6 +55,7 @@
             // 
             this.panelEx1.CanvasColor = System.Drawing.SystemColors.Control;
             this.panelEx1.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
+            this.panelEx1.Controls.Add(this.lab_message);
             this.panelEx1.Controls.Add(this.CNunit);
             this.panelEx1.Controls.Add(this.lblLayers);
             this.panelEx1.Controls.Add(this.label5);
@@ -83,6 +85,14 @@
             this.panelEx1.Style.ForeColor.ColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText;
             this.panelEx1.Style.GradientAngle = 90;
             this.panelEx1.TabIndex = 0;
+            // 
+            // lab_message
+            // 
+            this.lab_message.AutoSize = true;
+            this.lab_message.Location = new System.Drawing.Point(76, 168);
+            this.lab_message.Name = "lab_message";
+            this.lab_message.Size = new System.Drawing.Size(0, 12);
+            this.lab_message.TabIndex = 23;
             // 
             // CNunit
             // 
@@ -189,7 +199,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(91, 179);
+            this.button1.Location = new System.Drawing.Point(91, 186);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 23);
             this.button1.TabIndex = 2;
@@ -307,6 +317,7 @@
         private DevComponents.DotNetBar.Controls.TextBoxX txtBufferDistance;
         private System.Windows.Forms.Button btnOutputLayer;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label lab_message;
 
     }
 }

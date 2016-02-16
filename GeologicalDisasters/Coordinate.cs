@@ -51,7 +51,7 @@ namespace GeologicalDisasters
             //string pathSave = pSaveFileDialog.FileName;
             //string date = DateTime.Now.Date.ToString();//xxxx-xx-xx 00:00:00
             string date = DateTime.Now.ToLongDateString().ToString();//xxxx年xx月xx日
-            pSaveFileDialog.FileName = date + "采集坐标点.txt";
+            pSaveFileDialog.FileName = date + "采集坐标点";
             DialogResult dr = pSaveFileDialog.ShowDialog();
             if (dr == DialogResult.OK)
             {
@@ -90,6 +90,8 @@ namespace GeologicalDisasters
         private void ThisFormClose_Click(object sender, EventArgs e)
         {
             this.Close();
+            GISHandler.GISTools.refresh(this.mapControl);
+
         }
         public bool drawPolygon = false;
 
@@ -131,10 +133,10 @@ namespace GeologicalDisasters
             {
                 int l = paths1.LastIndexOf("\\");
                string name= paths1.Substring(l+1);
-
-               GISHandler.GISTools.CreatePolygonFeature(ply, @"G:\四平项目\数据库\图层数据", name);
+               string name1 = name.Remove(name.Length - 4);
+               GISHandler.GISTools.CreatePolygonFeature(ply, SystemSet.Base_Map+"\\处理数据库\\图层数据", name1);
                 MessageBox.Show("已成功保存！", "提示");
-                this.mapControl.AddShapeFile(@"G:\四平项目\数据库\图层数据", name);//.Substring(paths1.Length - lengh + 1)
+                this.mapControl.AddShapeFile(SystemSet.Base_Map + "\\处理数据库\\图层数据", name1);//.Substring(paths1.Length - lengh + 1)
             }
             catch (Exception ex)
             {
@@ -184,7 +186,7 @@ namespace GeologicalDisasters
             ofd.Title = "选择坐标文件";
             ofd.Filter = "txt文件|*.txt";
             // ofd.InitialDirectory = Environment.SpecialFolder.Desktop.ToString();
-            ofd.InitialDirectory = @"G:\数据库\坐标数据";
+            ofd.InitialDirectory = SystemSet.Base_Map + "\\处理数据库\\坐标数据";
 
             if (ofd.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {

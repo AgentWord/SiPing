@@ -29,6 +29,7 @@ using ESRI.ArcGIS.ConversionTools;
 using ESRI.ArcGIS.Geoprocessor;
 using ESRI.ArcGIS.DataSourcesRaster;
 using ESRI.ArcGIS.DataSourcesGDB;
+
   
 namespace GISHandler
 {
@@ -724,7 +725,7 @@ namespace GISHandler
         }
         
         //自由画面统计
-        public static void FreePolygonSt(AxMapControl axMapControl)
+        public static void FreePolygonSt(AxMapControl axMapControl,string Path)
         {
             try
             {
@@ -739,10 +740,11 @@ namespace GISHandler
                 screenDisplay.StartDrawing(screenDisplay.hDC, (short)esriScreenCache.esriNoScreenCache);
                 screenDisplay.SetSymbol((ISymbol)sfs);
                 screenDisplay.DrawPolygon((IGeometry)pGon);
+                
                 screenDisplay.FinishDrawing();
                 if (MessageBox.Show("是否进行统计？", "询问", MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
                 {
-                    CreatePolygonFeature(pGon, @"G:\四平项目\数据库\图层数据", "统计");
+                    CreatePolygonFeature(pGon, Path, "统计");
                     //axMapControl.AddShapeFile(@"G:\数据库\图层数据", "统计");
 
                 

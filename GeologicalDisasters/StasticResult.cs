@@ -111,7 +111,7 @@ namespace GeologicalDisasters
             //Intersect intersect=new Intersect()
             Double tol=0.0;
             IWorkspaceFactory wspfctry = new ShapefileWorkspaceFactory();
-            IWorkspace pWorkSpace = wspfctry.OpenFromFile(@"G:\四平项目\数据库\实验数据", 0);
+            IWorkspace pWorkSpace = wspfctry.OpenFromFile(SystemSet.Base_Map + "\\处理数据库\\实验数据", 0);
 
             IDataset pDataset = (IDataset)pWorkSpace;
             IName pName=pDataset.FullName;
@@ -292,14 +292,14 @@ namespace GeologicalDisasters
     }
         private void Export1_Click(object sender, EventArgs e)
         {
-            Export();
+            Export(Heigh.Text);
         }
-        private void Export()
+        private void Export(string level)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
             saveFileDialog.Title = "导出Excel";
             saveFileDialog.Filter = "Excel文件(*.xls)|*.xls";
-            saveFileDialog.FileName = Heigh.Text + "统计信息";
+            saveFileDialog.FileName = level + "统计信息";
             DialogResult dialogResult = saveFileDialog.ShowDialog(this);
             if (dialogResult == DialogResult.OK)
             {
@@ -311,32 +311,34 @@ namespace GeologicalDisasters
 
         private void Export2_Click(object sender, EventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Title = "导出Excel";
-            saveFileDialog.Filter = "Excel文件(*.xls)|*.xls";
-            saveFileDialog.FileName = middle.Text + "统计信息";
-            DialogResult dialogResult = saveFileDialog.ShowDialog(this);
-            if (dialogResult == DialogResult.OK)
-            {
-                DevExpress.XtraPrinting.XlsExportOptions options = new DevExpress.XtraPrinting.XlsExportOptions();
-                middleClass.ExportToXls(saveFileDialog.FileName);
-                DevExpress.XtraEditors.XtraMessageBox.Show("保存成功！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
+            Export(middle.Text);
+            //SaveFileDialog saveFileDialog = new SaveFileDialog();
+            //saveFileDialog.Title = "导出Excel";
+            //saveFileDialog.Filter = "Excel文件(*.xls)|*.xls";
+            //saveFileDialog.FileName = middle.Text + "统计信息";
+            //DialogResult dialogResult = saveFileDialog.ShowDialog(this);
+            //if (dialogResult == DialogResult.OK)
+            //{
+            //    DevExpress.XtraPrinting.XlsExportOptions options = new DevExpress.XtraPrinting.XlsExportOptions();
+            //    middleClass.ExportToXls(saveFileDialog.FileName);
+            //    DevExpress.XtraEditors.XtraMessageBox.Show("保存成功！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //}
         }
 
         private void Export3_Click(object sender, EventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Title = "导出Excel";
-            saveFileDialog.Filter = "Excel文件(*.xls)|*.xls";
-            saveFileDialog.FileName = low.Text + "统计信息";
-            DialogResult dialogResult = saveFileDialog.ShowDialog(this);
-            if (dialogResult == DialogResult.OK)
-            {
-                DevExpress.XtraPrinting.XlsExportOptions options = new DevExpress.XtraPrinting.XlsExportOptions();
-                bottomClass.ExportToXls(saveFileDialog.FileName);
-                DevExpress.XtraEditors.XtraMessageBox.Show("保存成功！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
+            Export(low.Text);
+            //SaveFileDialog saveFileDialog = new SaveFileDialog();
+            //saveFileDialog.Title = "导出Excel";
+            //saveFileDialog.Filter = "Excel文件(*.xls)|*.xls";
+            //saveFileDialog.FileName = low.Text + "统计信息";
+            //DialogResult dialogResult = saveFileDialog.ShowDialog(this);
+            //if (dialogResult == DialogResult.OK)
+            //{
+            //    DevExpress.XtraPrinting.XlsExportOptions options = new DevExpress.XtraPrinting.XlsExportOptions();
+            //    bottomClass.ExportToXls(saveFileDialog.FileName);
+            //    DevExpress.XtraEditors.XtraMessageBox.Show("保存成功！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //}
         }
     }
 }

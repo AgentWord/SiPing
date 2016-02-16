@@ -6,15 +6,30 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Configuration;
 
 namespace GeologicalDisasters
 {
     public partial class SystemSet : Form
     {
+        public static  string Base_Map=@"G:\四平项目\国情应用数据";
+        //private ExeConfigurationFileMap file;
+        //private Configuration config1;
+        //private ConfigSectionData data1;
         public SystemSet()
         {
+            //file = new ExeConfigurationFileMap();
             InitializeComponent();
+            //file.ExeConfigFilename = "setting.config";
+            //set_Value();
         }
+        //private void set_Value()
+        //{
+        //    config1 = ConfigurationManager.OpenMappedExeConfiguration(file, ConfigurationUserLevel.None);
+        //    data1 = config1.Sections["add"] as ConfigSectionData;
+        //    Base_Map = textBoxX1.Text = System.IO.Path.Combine(data1.Base_Map);
+
+        //}
 
         private void simpleButton5_Click(object sender, EventArgs e)
         {
@@ -28,10 +43,10 @@ namespace GeologicalDisasters
 
         private void SystemSet_Load(object sender, EventArgs e)
         {
-            textBoxX1.Text = System.IO.Path.Combine(@"G:\数据库\坐标数据");
-            textBoxX2.Text = System.IO.Path.Combine(@"G:\数据库\图层数据");
-            textBoxX3.Text = System.IO.Path.Combine(@"G:\数据库\地图数据");
-            textBoxX4.Text = System.IO.Path.Combine(@"G:\数据库\统计数据");
+            //textBoxX1.Text = System.IO.Path.Combine(@"G:\数据库\坐标数据");
+            //textBoxX2.Text = System.IO.Path.Combine(@"G:\数据库\图层数据");
+            //textBoxX3.Text = System.IO.Path.Combine(@"G:\数据库\地图数据");
+            //textBoxX4.Text = System.IO.Path.Combine(@"G:\数据库\统计数据");
         }
         private void save(string type,string name,string title,TextBox textBox)
         {
@@ -68,4 +83,64 @@ namespace GeologicalDisasters
             save("表文件 (*.exl)|*.exl", DateTime.Now.ToLongDateString(), "统计输出", textBoxX4);
         }
     }
+    //class ConfigSectionData : ConfigurationSection
+    //{
+
+    //    [ConfigurationProperty("Base_Map")]
+
+    //    public string Base_Map
+    //    {
+
+    //        get { return (string)this["Base_Map"]; }
+
+    //        set { this["Base_Map"] = value; }
+
+    //    }
+
+
+
+        //[ConfigurationProperty("Database")]
+
+        //public string Deal_path
+        //{
+
+        //    get { return (string)this["Database"]; }
+
+        //    set { this["Database"] = value; }
+
+        //}
+
+        //[ConfigurationProperty("StoreBase")]
+
+        //public string mod
+        //{
+
+        //    get { return (string)this["StoreBase"]; }
+
+        //    set { this["StoreBase"] = value; }
+
+        //}
+
+
+        //[ConfigurationProperty("report")]
+
+        //public string report
+        //{
+
+        //    get { return (string)this["report"]; }
+
+        //    set { this["report"] = value; }
+
+        //}
+        //[ConfigurationProperty("Coor_ref")]
+
+        //public string Coor_ref
+        //{
+
+        //    get { return (string)this["Coor_ref"]; }
+
+        //    set { this["Coor_ref"] = value; }
+
+        //}
+    //}
 }

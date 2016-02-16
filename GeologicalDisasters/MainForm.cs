@@ -63,8 +63,8 @@ namespace GeologicalDisasters
         private void MainForm_Load(object sender, EventArgs e)
         {
 
-            //axMapControl1.LoadMxFile(@"G:\四平项目\数据库\地图数据\演示数据.mxd", 0, Type.Missing);
-            axMapControl1.LoadMxFile(@"D:\各种结课作业\地籍测量\地块拓展.mxd", 0, Type.Missing);  
+            axMapControl1.LoadMxFile(SystemSet.Base_Map + "\\基础底图.mxd", 0, Type.Missing);
+            //axMapControl1.LoadMxFile(@"D:\各种结课作业\地籍测量\地块拓展.mxd", 0, Type.Missing);  
             //axMapControl1.AddShapeFile(@"I:\四平项目\实验数据", "东丰县行政区域");
             m_menuMap = new ToolbarMenuClass();
             m_menuLayer = new ToolbarMenuClass();
@@ -525,7 +525,7 @@ namespace GeologicalDisasters
                 }
                 if(polygonSt)
                 {
-                    GISHandler.GISTools.FreePolygonSt(this.axMapControl1);
+                    GISHandler.GISTools.FreePolygonSt(this.axMapControl1, SystemSet.Base_Map+"\\处理数据库\\图层数据");
                     polygonSt = false;
                 }
                 if (attribute)
@@ -682,24 +682,220 @@ namespace GeologicalDisasters
 
         private void barButtonItem4_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
+            //string aa =axMapControl1.DocumentFilename ;//axMapControl1.DocumentMap;// axMapControl1.get_Layer(0).ToString();
+            //MessageBox.Show(aa);
+            //IFeatureLayer featureLayer = axMapControl1.get_Layer(0) as IFeatureLayer;
+            //string bb=featureLayer.FeatureClass.FeatureDataset.ToString();
+           
+           
+            //ILayer pLayer = axMapControl1.get_Layer(1);
             
+            IRasterLayer pRasterLayer = GetRasterLayer("到达时间");
+        
+            MessageBox.Show( pRasterLayer.FilePath.Substring (0,pRasterLayer.FilePath.LastIndexOf("\\")));
+ /*
+            int layerCount = axMapControl1.LayerCount;
+            string pLayerName = null;
+            for (int i = 0; i < layerCount; i++)
+            {
+                pLayerName = axMapControl1.get_Layer(i).Name;
+                
+                MessageBox.Show(pLayerName);
+            }*/
+
+            IFeatureLayer testLayer = getLayerFromName(axMapControl1);
+
+            IFeatureLayer featurelayer = GetFeatureLayer("水利工程线状要素");
+            IFeatureClass fc = featurelayer.FeatureClass;
+            string name1 = fc.AliasName;
+            MessageBox.Show(name1);
+            IFeatureDataset fds = fc.FeatureDataset;
+            string name = fds.BrowseName;
+            MessageBox.Show(name);
+            //IDataLayer pDataLayer = (IDataLayer)pLayer;
+            string s1 = fds.Workspace.PathName;
+            MessageBox.Show(s1); /**/
+           // 
+            ILayer pGroupLayer = axMapControl1.get_Layer(1);
+            GroupLayer layer = new GroupLayerClass();
+            //IGroupLayer
+            
+            layer = pGroupLayer as GroupLayer;
+            string mm = pGroupLayer.Name;
+            
+            //string s = ws.PathName.ToUpper();
+            //MessageBox.Show(s);
+
             //UID uid = new UIDClass();
             //uid.Value = "{40A9E885-5533-11d0-98BE-00805F7CED21}";
             //FeatureLayer flayer=(FeatureLayer)axMapControl1.Map.get_Layer(0);
-            //IGeoFeatureLayer player=(IGeoFeatureLayer)flayer;
+           //IGeoFeatureLayer player=(IGeoFeatureLayer)flayer;
             //GISHandler.GISTools.Annotation(player, axMapControl1.Map, "NAME", this.axMapControl1);
             //areaMeasure = true;
             //MessageBox.Show(axMapControl1.DocumentFilename);
             //MessageBox.Show(axMapControl1.DocumentMap);
             //MessageBox.Show(axMapControl1.mxd)
             //MessageBox.Show(axMapControl1);
-            选择地块 chose = new 选择地块(this.axMapControl1);
-            chose.StartPosition=FormStartPosition.CenterScreen;
-            chose.Show();
+            //选择地块 chose = new 选择地块(this.axMapControl1);
+            //chose.StartPosition=FormStartPosition.CenterScreen;
+            //chose.Show();
             
         
         
         }
+       
+        //=======================================================================
+        //从groupLayer中查找FeatureLayer
+        public static IFeatureLayer getSubLayer(ILayer layers)
+        {
+            IFeatureLayer l = null;
+            ICompositeLayer compositeLayer = layers as ICompositeLayer;
+            for (int i = 0; i < compositeLayer.Count; i++)
+            {
+                ILayer layer = compositeLayer.Layer[i];   //递归
+                if (layer is GroupLayer || layer is ICompositeLayer)
+                {
+                    //MessageBox.Show(layer.Name);
+                    l = getSubLayer(layer);
+                    
+                    if (l != null)
+                    {
+                        continue;
+                    }
+                }
+                else
+                {
+                    //while (layer.Name.Equals(layerName))
+                    //{
+                    try
+                    {
+                        l = layer as IFeatureLayer;
+                        MessageBox.Show(l.Name );
+                       
+                    }
+                    catch
+                    {
+                        try
+                        {
+                           IRasterLayer r = layer as IRasterLayer;
+                           MessageBox.Show(r.Name);
+                        }
+                        catch
+                        { }
+                    }
+                    //}
+                }
+            }
+          
+            return l;
+        }
+        public static IFeatureLayer getLayerFromName(AxMapControl mapControl)
+        {
+            IFeatureLayer layer = null;
+            int s = 0;
+            for (int i = 0; i < mapControl.LayerCount; i++)
+            {
+                ILayer layers = mapControl.get_Layer(i);
+                if (layers is GroupLayer || layers is ICompositeLayer)   //判断是否是groupLayer
+                {
+                    MessageBox.Show(layers.Name);
+                    //创建文件夹：slgc，ztdt，bhzy
+                    if(layer.Name.Equals("水利工程"))
+                    {
+                        //创建文件夹：slgc
+
+                        //将该文件路径传入函数中
+                        layer = getSubLayer(layers);  //递归的思想
+                    }
+                    else if (layer.Name.Substring(0, 2).Equals("方案"))
+                    {
+                        s++;
+                        //创建ztdu文件夹
+
+                        //传入参数  ztdt和方案i
+
+                        layer = getSubLayer(layers);  //递归的思想
+
+                    }
+                    else
+                    {
+                        //创建bhzy文件夹
+
+                        //传入参数
+                         layer = getSubLayer(layers);  //递归的思想
+                    } 
+                    
+                    if (layer != null)
+                    {
+                        continue;
+                    }
+                }
+                else
+                {
+                    //if (mapControl.get_Layer(i).Name.Equals(layerName))
+                    //{
+                        layer = layers as IFeatureLayer;
+                       
+                    //}
+                }
+            }
+            //MessageBox.Show(layer.Name);
+            return layer;
+        }
+        private string RasterDataSourse(string LayerName)
+        {
+            try
+            {
+                IRasterLayer pRasterLayer = GetRasterLayer(LayerName);
+                return pRasterLayer.FilePath;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return null;
+            }
+        }
+        private IRasterLayer GetRasterLayer(string layerName)
+        {
+            //get the layers from the maps
+            IEnumLayer layers = GetLayers();
+            layers.Reset();
+
+            ILayer layer = null;
+            while ((layer = layers.Next()) != null)
+            {
+                if (layer.Name == layerName)
+                    return layer as IRasterLayer;
+            }
+
+            return null;
+        }
+        private IFeatureLayer GetFeatureLayer(string layerName)
+        {
+            //get the layers from the maps
+            IEnumLayer layers = GetLayers();
+            layers.Reset();
+
+            ILayer layer = null;
+            while ((layer = layers.Next()) != null)
+            {
+                if (layer.Name == layerName)
+                    return layer as IFeatureLayer;
+            }
+
+            return null;
+        }
+        private IEnumLayer GetLayers()
+        {
+
+            UID uid = new UIDClass();
+           uid.Value = "{6CA416B1-E160-11D2-9F4E-00C04F6BC78E}";//获取所有图层
+          //   uid.Value = "{40A9E885-5533-11d0-98BE-00805F7CED21}";// 代表只获取矢量图层
+            //问题在这个地方 解决！
+           IEnumLayer layers = axMapControl1.ActiveView.FocusMap.get_Layers(uid,true);// .FocusMap.get_Layers(uid, true);
+            return layers;
+        }
+        //=======================================================================
         /*
         private void gridView1_RowCellClick(object sender, DevExpress.XtraGrid.Views.Grid.RowCellClickEventArgs e)
         {

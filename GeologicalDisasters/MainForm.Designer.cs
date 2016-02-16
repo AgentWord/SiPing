@@ -633,8 +633,8 @@
             // 
             this.ribbonPageGroup7.ItemLinks.Add(this.btn_Data_StatisticTables);
             this.ribbonPageGroup7.ItemLinks.Add(this.btn_PublishDisasterDoc);
-            this.ribbonPageGroup7.ItemLinks.Add(this.btn_AnalysisFuture);
             this.ribbonPageGroup7.ItemLinks.Add(this.barButtonItem11);
+            this.ribbonPageGroup7.ItemLinks.Add(this.btn_AnalysisFuture);
             this.ribbonPageGroup7.Name = "ribbonPageGroup7";
             this.ribbonPageGroup7.Text = "分析工具";
             // 
@@ -814,7 +814,7 @@
             // 
             // Coordinate
             // 
-            this.Coordinate.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.Coordinate.Appearance.ForeColor = System.Drawing.Color.Black;
             this.Coordinate.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.Coordinate.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.Coordinate.Location = new System.Drawing.Point(0, 425);
